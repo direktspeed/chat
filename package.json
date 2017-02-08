@@ -41,7 +41,7 @@
     "bootstrap": "^3.3.6",
     "can": "^2.3.16",
     "can-connect": "^0.5.0",
-    "can-zone": "^0.4.4",
+    "can-zone": "^0.6.4",
     "done-autorender": "^0.7.3",
     "done-component": "^0.4.0",
     "done-css": "~2.0.2",
