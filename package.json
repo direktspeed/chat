@@ -42,7 +42,7 @@
     ]
   },
   "dependencies": {
-    "bit-tabs": "^0.2.0",
+    "bit-tabs": "^1.0.0",
     "body-parser": "^1.15.0",
     "bootstrap": "^3.3.6",
     "can": "^3.5.1",
